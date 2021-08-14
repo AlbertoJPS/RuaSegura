@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuaSegura.Android", "RuaSegura.Android\RuaSegura.Android.csproj", "{596B809E-F47E-4844-9A5D-EB0435B35B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuaSegura", "RuaSegura\RuaSegura.csproj", "{F90643DC-071B-44C2-9917-696AFB10C1F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuaSegura", "RuaSegura\RuaSegura.csproj", "{F90643DC-071B-44C2-9917-696AFB10C1F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

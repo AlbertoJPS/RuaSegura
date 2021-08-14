@@ -1,6 +1,9 @@
 RuaSegura.Droid.MainActivity, RuaSegura.Android;crc643f5e7cc5435fb492.MainActivity
 RuaSegura.Droid.MainActivity;crc643f5e7cc5435fb492.MainActivity
 ruasegura.droid.MainActivity;crc643f5e7cc5435fb492.MainActivity
+RuaSegura.Droid.SplashActivity, RuaSegura.Android;crc643f5e7cc5435fb492.SplashActivity
+RuaSegura.Droid.SplashActivity;crc643f5e7cc5435fb492.SplashActivity
+ruasegura.droid.SplashActivity;crc643f5e7cc5435fb492.SplashActivity
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
