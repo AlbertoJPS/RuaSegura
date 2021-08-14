@@ -1,0 +1,14 @@
+C:\DevEntra21\RuaSegura\RuaSegura\bin\Debug\netstandard2.0\RuaSegura.deps.json
+C:\DevEntra21\RuaSegura\RuaSegura\bin\Debug\netstandard2.0\RuaSegura.dll
+C:\DevEntra21\RuaSegura\RuaSegura\bin\Debug\netstandard2.0\ref\RuaSegura.dll
+C:\DevEntra21\RuaSegura\RuaSegura\bin\Debug\netstandard2.0\RuaSegura.pdb
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.csproj.AssemblyReference.cache
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.AssemblyInfoInputs.cache
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.AssemblyInfo.cs
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.csproj.CoreCompileInputs.cache
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.dll
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\ref\RuaSegura.dll
+C:\DevEntra21\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.pdb
