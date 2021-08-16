@@ -1,55 +1,61 @@
-@string/appbar_scrolling_view_behavior;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\100\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\100\res\mipmap-anydpi-v26\ic_launcher_round.xml
-alpha;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromleft.xml
-alpha;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoleft.xml
-androidx.appcompat.widget.Toolbar;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\fallbacktoolbardonotuse.xml
-androidx.appcompat.widget.Toolbar;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
-androidx.appcompat.widget.Toolbar;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\shellcontent.xml
-androidx.appcompat.widget.Toolbar;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\toolbar.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\shellcontent.xml
-attr;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
+alpha;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromleft.xml
+alpha;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\shellcontent.xml
+attr;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
 background;obj\Debug\100\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\100\res\mipmap-anydpi-v26\ic_launcher_round.xml
+bitmap;obj\Debug\100\res\drawable\splashscreen.xml
 bitmap;obj\Debug\100\res\drawable\tela_inicio.xml
-cache-path;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\100\res\drawable\splashscreen.xml
 color;obj\Debug\100\res\drawable\tela_inicio.xml
 color;obj\Debug\100\res\values\colors.xml
-com.google.android.material.appbar.AppBarLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\flyoutcontent.xml
-com.google.android.material.appbar.AppBarLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
-com.google.android.material.appbar.AppBarLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\shellcontent.xml
-com.google.android.material.bottomnavigation.BottomNavigationView;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
-com.google.android.material.tabs.TabLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\fallbacktabbardonotuse.xml
-com.google.android.material.tabs.TabLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
-com.google.android.material.tabs.TabLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\tabbar.xml
-declare-styleable;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
-external-cache-path;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+com.google.android.material.appbar.AppBarLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\tabbar.xml
+crc643f46942d9dd1fff9.ShellFlyoutLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\flyoutcontent.xml
+crc64720bb2db43a66fe9.FormsViewPager;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+declare-styleable;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
+external-cache-path;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\100\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\100\res\mipmap-anydpi-v26\ic_launcher_round.xml
-FrameLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
-item;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\styles.xml
+FrameLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
+item;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\styles.xml
+item;obj\Debug\100\res\drawable\splashscreen.xml
 item;obj\Debug\100\res\drawable\tela_inicio.xml
 item;obj\Debug\100\res\values\styles.xml
+layer-list;obj\Debug\100\res\drawable\splashscreen.xml
 layer-list;obj\Debug\100\res\drawable\tela_inicio.xml
-LinearLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
-paths;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-resources;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
-resources;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\strings.xml
-resources;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\styles.xml
+LinearLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
+paths;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
+resources;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\strings.xml
+resources;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\styles.xml
 resources;obj\Debug\100\res\values\colors.xml
 resources;obj\Debug\100\res\values\styles.xml
-set;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromleft.xml
-set;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromright.xml
-set;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoleft.xml
-set;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoright.xml
-string;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\strings.xml
-style;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\styles.xml
+set;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromleft.xml
+set;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromright.xml
+set;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoleft.xml
+set;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoright.xml
+string;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\strings.xml
+style;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\styles.xml
 style;obj\Debug\100\res\values\styles.xml
-translate;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromleft.xml
-translate;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromright.xml
-translate;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoleft.xml
-translate;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
-xamarin.forms.platform.android.ShellFlyoutLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\flyoutcontent.xml
+translate;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromleft.xml
+translate;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\enterfromright.xml
+translate;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoleft.xml
+translate;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;C:\Rua Segura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\flyoutcontent.xml

@@ -1585,7 +1585,7 @@ public final class R {
 		public static final int notification_tile_bg = 0x7f0700a2;
 		public static final int notify_panel_notification_icon_bg = 0x7f0700a3;
 		public static final int preference_list_divider_material = 0x7f0700a4;
-		public static final int tela_inicio = 0x7f0700a5;
+		public static final int splashscreen = 0x7f0700a5;
 		public static final int test_custom_background = 0x7f0700a6;
 		public static final int tooltip_frame_dark = 0x7f0700a7;
 		public static final int tooltip_frame_light = 0x7f0700a8;

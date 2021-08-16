@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "CMa2Ner4FZmOUuZn7/VZJlQrdPaFSCm9qmh/NS4WmiqRFhsFy1TSCe9ni8jPVnCahnwgbhjY/TGpjIGgtt+Pfw==",
+  "dgSpecHash": "+7IDxtGyXXPMQY/EhcjnpBrp8fzZZAkwsJ2ay3UsMnHXqqw606awXt4Mdhsn8zBDNUM5NYFQncTl0mAHwdJe0g==",
   "success": true,
-  "projectFilePath": "C:\\RuaSegura\\RuaSegura\\RuaSegura.csproj",
+  "projectFilePath": "C:\\Rua Segura\\RuaSegura\\RuaSegura.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512"
+    "C:\\Users\\Uuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Uuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Uuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Uuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512",
+    "C:\\Users\\Uuario\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512"
   ],
   "logs": []
 }

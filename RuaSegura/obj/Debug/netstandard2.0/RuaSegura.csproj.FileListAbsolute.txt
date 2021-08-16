@@ -26,3 +26,18 @@ C:\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\XamlC.stamp
 C:\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.dll
 C:\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\ref\RuaSegura.dll
 C:\RuaSegura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.pdb
+C:\Rua Segura\RuaSegura\bin\Debug\netstandard2.0\RuaSegura.deps.json
+C:\Rua Segura\RuaSegura\bin\Debug\netstandard2.0\RuaSegura.dll
+C:\Rua Segura\RuaSegura\bin\Debug\netstandard2.0\ref\RuaSegura.dll
+C:\Rua Segura\RuaSegura\bin\Debug\netstandard2.0\RuaSegura.pdb
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.csproj.AssemblyReference.cache
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.AssemblyInfoInputs.cache
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.AssemblyInfo.cs
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.csproj.CoreCompileInputs.cache
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.dll
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\ref\RuaSegura.dll
+C:\Rua Segura\RuaSegura\obj\Debug\netstandard2.0\RuaSegura.pdb

@@ -12383,7 +12383,7 @@ namespace RuaSegura.Droid
 			public const int preference_list_divider_material = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int tela_inicio = 2131165349;
+			public const int splashScreen = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
 			public const int test_custom_background = 2131165350;
