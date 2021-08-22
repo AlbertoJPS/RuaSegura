@@ -3,6 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Android Emulator</SelectedDevice>
     <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
-    <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredTheme>MainTheme.Splash</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>

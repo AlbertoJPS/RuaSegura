@@ -23,6 +23,8 @@ com.google.android.material.bottomnavigation.BottomNavigationView;C:\RuaSegura\R
 com.google.android.material.tabs.TabLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\fallbacktabbardonotuse.xml
 com.google.android.material.tabs.TabLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\tabbar.xml
+crc643f46942d9dd1fff9.ShellFlyoutLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\flyoutcontent.xml
+crc64720bb2db43a66fe9.FormsViewPager;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\rootlayout.xml
 declare-styleable;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
 external-cache-path;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -34,6 +36,7 @@ item;obj\Debug\100\res\drawable\tela_inicio.xml
 item;obj\Debug\100\res\values\styles.xml
 layer-list;obj\Debug\100\res\drawable\tela_inicio.xml
 LinearLayout;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\layout\bottomtablayout.xml
+LinearLayout;obj\Debug\100\res\layout\tabbar.xml
 paths;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\49\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\attrs.xml
 resources;C:\RuaSegura\RuaSegura.Android\obj\Debug\100\lp\51\jl\res\values\strings.xml

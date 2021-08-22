@@ -9,6 +9,9 @@
   <item>
     <bitmap
         android:src="@drawable/logo"
+        android:scaleType="matrix"
+        android:layout_height="fill_parent"
+        android:layout_widht="fill_parent"
         android:tileMode="disabled"
         android:gravity="center"/>
   </item>
