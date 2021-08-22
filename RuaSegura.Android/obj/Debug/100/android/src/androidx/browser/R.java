@@ -149,15 +149,15 @@ public final class R {
 		public static final int status_bar_notification_info_maxnum = 0x7f090016;
 	}
 	public static final class layout {
-		public static final int browser_actions_context_menu_page = 0x7f0b001d;
-		public static final int browser_actions_context_menu_row = 0x7f0b001e;
-		public static final int custom_dialog = 0x7f0b001f;
-		public static final int notification_action = 0x7f0b0050;
-		public static final int notification_action_tombstone = 0x7f0b0051;
-		public static final int notification_template_custom_big = 0x7f0b0058;
-		public static final int notification_template_icon_group = 0x7f0b0059;
-		public static final int notification_template_part_chronometer = 0x7f0b005d;
-		public static final int notification_template_part_time = 0x7f0b005e;
+		public static final int browser_actions_context_menu_page = 0x7f0b001e;
+		public static final int browser_actions_context_menu_row = 0x7f0b001f;
+		public static final int custom_dialog = 0x7f0b0020;
+		public static final int notification_action = 0x7f0b0051;
+		public static final int notification_action_tombstone = 0x7f0b0052;
+		public static final int notification_template_custom_big = 0x7f0b0059;
+		public static final int notification_template_icon_group = 0x7f0b005a;
+		public static final int notification_template_part_chronometer = 0x7f0b005e;
+		public static final int notification_template_part_time = 0x7f0b005f;
 	}
 	public static final class string {
 		public static final int copy_toast_msg = 0x7f0e0034;

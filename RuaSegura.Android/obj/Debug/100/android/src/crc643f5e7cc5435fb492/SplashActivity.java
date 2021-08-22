@@ -2,7 +2,7 @@ package crc643f5e7cc5435fb492;
 
 
 public class SplashActivity
-	extends android.app.Activity
+	extends androidx.appcompat.app.AppCompatActivity
 	implements
 		mono.android.IGCUserPeer
 {
@@ -11,6 +11,7 @@ public class SplashActivity
 	static {
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"n_onResume:()V:GetOnResumeHandler\n" +
 			"";
 		mono.android.Runtime.register ("RuaSegura.Droid.SplashActivity, RuaSegura.Android", SplashActivity.class, __md_methods);
 	}
@@ -24,12 +25,28 @@ public class SplashActivity
 	}
 
 
+	public SplashActivity (int p0)
+	{
+		super (p0);
+		if (getClass () == SplashActivity.class)
+			mono.android.TypeManager.Activate ("RuaSegura.Droid.SplashActivity, RuaSegura.Android", "System.Int32, mscorlib", this, new java.lang.Object[] { p0 });
+	}
+
+
 	public void onCreate (android.os.Bundle p0)
 	{
 		n_onCreate (p0);
 	}
 
 	private native void n_onCreate (android.os.Bundle p0);
+
+
+	public void onResume ()
+	{
+		n_onResume ();
+	}
+
+	private native void n_onResume ();
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

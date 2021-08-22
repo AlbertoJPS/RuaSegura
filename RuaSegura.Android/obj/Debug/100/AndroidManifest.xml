@@ -18,7 +18,7 @@
     <!--meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyAfEjd2ccALwUjTDatA1SXHJgE5mkqSKNU" /-->
     <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyAfEjd2ccALwUjTDatA1SXHJgE5mkqSKNU" />
     <activity android:theme="@style/MainTheme" android:name="crc643f5e7cc5435fb492.MainActivity" />
-    <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/ic_launcher" android:label="Rua Segura" android:theme="@style/MainTheme.Splash" android:name="crc643f5e7cc5435fb492.SplashActivity">
+    <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/ic_launcher" android:label="Rua Segura" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/MainTheme.Splash" android:name="crc643f5e7cc5435fb492.SplashActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
